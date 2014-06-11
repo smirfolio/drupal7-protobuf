@@ -1,4 +1,0 @@
-name = "Obiba Protobuf"
-description = "Obiba Protobuf : Protobuf support for Drupal 7"
-package = Mica
-core = 7.x
