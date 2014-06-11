@@ -1,3 +1,6 @@
 # Protobuf support for Drupal 7
 
-See [https://github.com/drslump/Protobuf-PHP](https://github.com/drslump/Protobuf-PHP)
+[Drupal module](https://drupal.org/node/2284455)
+
+
+Based on [Protobuf-PHP](https://github.com/drslump/Protobuf-PHP)
